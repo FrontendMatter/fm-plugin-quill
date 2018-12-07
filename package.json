@@ -1,6 +1,6 @@
 {
   "name": "fm-plugin-quill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "FrontendMatter <contact@frontendmatter.com> (http://www.frontendmatter.com)",
   "license": "UNLICENSED",
   "main": "js/quill.js",
@@ -11,5 +11,8 @@
   "bugs": {
     "url": "https://github.com/FrontendMatter/fm-plugin-quill/issues"
   },
-  "homepage": "https://github.com/FrontendMatter/fm-plugin-quill#readme"
+  "homepage": "https://github.com/FrontendMatter/fm-plugin-quill#readme",
+  "dependencies": {
+    "quill": "^1.3.6"
+  }
 }
